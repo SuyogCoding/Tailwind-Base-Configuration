@@ -3,10 +3,11 @@
 # Node.js Project Setup with Tailwind CSS and Vite
 
 This guide will help you set up a Node.js project with Tailwind CSS and Vite. This project is created by Suyog Coding for educational purposes.
-
+```
 ## Steps to Initialize and Set Up the Project
 
 ### 1. Initialize the Directory as a Node.js Project
+
 ```sh
 npm init -y
 ```
